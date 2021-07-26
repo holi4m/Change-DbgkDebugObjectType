@@ -1,0 +1,23 @@
+﻿  Building 'ChangeDebugObjectType' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\ChangeDebugObjectType.inf
+  Stamping [Version] section with DriverVer=07/26/2021,22.30.18.296
+  util.c
+  ChangeDebugObjectType.vcxproj -> C:\Users\h01i4\source\repos\ChangeDebugObjectType\x64\Debug\ChangeDebugObjectType.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\h01i4\source\repos\ChangeDebugObjectType\x64\Debug\ChangeDebugObjectType.sys
+  
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\h01i4\source\repos\ChangeDebugObjectType\x64\Debug\ChangeDebugObjectType\changedebugobjecttype.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\h01i4\source\repos\ChangeDebugObjectType\x64\Debug\ChangeDebugObjectType\changedebugobjecttype.cat
+  

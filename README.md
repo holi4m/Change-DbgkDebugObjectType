@@ -4,3 +4,4 @@ DbgkDebugObjectType을 이용한 Anti-Debug, Anti-Anti-Debug 테스트용입니�
 
 FreeObjectType의 경우 연구중에 있습니다.
 
+![](https://github.com/holi4m/Change-DbgkDebugObjectType/blob/main/screenshot.png)
